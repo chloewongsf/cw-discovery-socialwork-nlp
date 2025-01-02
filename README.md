@@ -67,12 +67,11 @@ The `code/` folder contains:
   - A detailed analysis of comments containing additional content, such as personal anecdotes and professional insights.
   - Identification of recurring themes in these unique contributions to better understand public sentiment and advocacy priorities.
   - Exploration of how this additional content may influence policy-making decisions, especially regarding nursing home staffing standards.
- 
-These structured files provide a comprehensive summary of the project outcomes, making it easy to replicate or build upon the analysis.
 
 ---
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/chloewongsf/cw-discovery-socialwork-nlp.git
+## How to Access the Repository
+
+You can clone this repository to view the code:
+```bash
+git clone https://github.com/username/repository-name.git
