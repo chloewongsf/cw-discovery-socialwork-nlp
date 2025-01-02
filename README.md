@@ -74,4 +74,4 @@ The `code/` folder contains:
 
 You can clone this repository to view the code:
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/chloewongsf/cw-discovery-socialwork-nlp.git
