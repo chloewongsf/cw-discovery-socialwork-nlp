@@ -57,7 +57,7 @@ The following files are located in the `data/` folder:
 
 ### Code
 The `code/` folder contains:
-- **analysis.ipynb**: A Jupyter Notebook detailing the full workflow, including data cleaning, TF-IDF vectorization, and cosine similarity analysis.
+- **cms_comment_analysis.ipynb**: A Jupyter Notebook detailing the full workflow, including data cleaning, TF-IDF vectorization, and cosine similarity analysis.
 
 ### Outputs
 - **Structured Data Files**: 
